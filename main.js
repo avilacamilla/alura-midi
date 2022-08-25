@@ -26,7 +26,8 @@ while (contador < listaDeTeclas.length) {
 
 
 /* 
-Testando funções
+-------- Testando funções JS --------
+
 // Pom ---------------------------------------------------
 function tocaSomPom () {
     document.querySelector('#som_tecla_pom').play();
