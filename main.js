@@ -26,7 +26,11 @@ while (contador < listaDeTeclas.length) {
 
 
 /* 
+
 -------- Testando funções JS --------
+
+
+Testando funções
 
 // Pom ---------------------------------------------------
 function tocaSomPom () {
